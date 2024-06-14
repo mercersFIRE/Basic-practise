@@ -108,3 +108,10 @@ footer section{
 .business{
     justify-content: space-around;
 }
+.searchbutton{
+    color: lightgrey;
+    font-size: 1.1em;
+    background: none;
+    border: none;
+    
+}
