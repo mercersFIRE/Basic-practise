@@ -106,10 +106,14 @@ footer{
 footer section{
     display: flex;
     justify-content: space-between;
+    
 }
 footer section:last-child{
     border-top: 1px white solid ;
     padding: 14px 0 0 0;
+}
+footer section:first-child{
+    margin:0 14px;
 }
 .business{
     justify-content: space-around;
